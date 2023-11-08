@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --port 5757",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
-    "@tanstack/react-query": "^5.7.2",
+    "@tanstack/react-query": "4.18.0",
     "@trpc/client": "^10.43.1",
     "@trpc/next": "^10.43.1",
     "@trpc/react-query": "^10.43.1",
