@@ -1,7 +1,13 @@
 # Next.js App Router Using tRPC Demo
 This is a demo of using tRPC with Next.js App Router. You can read my detailed [blog post](https://wilchow.com/blog/using-trpc-with-nextjs-app-router) for more information.
 
-First, run the development server:
+## Get Started
+1. Install dependencies:
+```bash
+pnpm install
+```
+
+2. Run the development server:
 
 ```bash
 pnpm dev
