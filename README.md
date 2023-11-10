@@ -1,5 +1,5 @@
 # Next.js App Router Using tRPC Demo
-This is a demo of using tRPC with Next.js App Router. You can read my detailed [blog post](https://wilchow.com/blog/get-end-to-end-type-safety-with-trpc-and-nextjs-app-router) for more information.
+This is a demo of using tRPC with Next.js App Router. You can read my detailed [blog post](https://wilchow.com/blog/get-end-to-end-typesafe-apis-with-trpc-and-nextjs-app-router) for more information.
 
 ## Get Started
 1. Install dependencies:
